@@ -1,0 +1,8 @@
+img {
+	width:150px;
+	height:150px;
+}
+
+table, td {
+	border: 1px #70b8ff dashed;
+}

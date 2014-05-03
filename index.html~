@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	    <table>
+	        <thead>
+	            <th colspan="3" align="center">My Photo Gallery</th>
+	        </thead>
+	        <tbody>
+    	        <tr>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730143-611-518.png">
+				<img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730143-611-518.png" />
+			</a>
+		    </td>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730138-1024-768.png"><img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730138-1024-768.png" /></a></td>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730136-1600-1000.png"><img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730136-1600-1000.png" /></a></td>
+    	        </tr>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730133-800-600.png"><img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730133-800-600.png" /></a></td>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730132-600-700.png"><img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730132-600-700.png" /></a></td>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730127-677-866.png"><img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730127-677-866.png" /></a></td>
+    	        <tr>
+    	        </tr>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730126-800-532.png"><img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36730126-800-532.png" /></a></td>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36726765-300-300.jpg"><img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36726765-300-300.jpg" /></a></td>
+    	            <td><a href="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36726535-432-503.jpg"><img src="http://images6.fanpop.com/image/photos/36700000/Quotes-image-quotes-36726535-432-503.jpg" /></a></td>
+    	        
+    	    </tbody> 
+    	 </table>
+	</body>
+</html>
